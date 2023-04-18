@@ -566,7 +566,7 @@ About Page
 @media screen and (min-width: 992px) {
   .about-page {
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 400px;
+    margin-top: 40px;
     align-items: center;
   }
   .about-img {
